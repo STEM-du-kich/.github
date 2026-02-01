@@ -16,7 +16,7 @@ Hỏi câu này tức là bạn không thuộc nhóm này rồi, bạn có thể
 Nói đùa, chứ đây là nhóm STEM bởi học sinh, khá là du kích <br>
 Tại sao gọi là du kích? Vì:
 - Trước hết, ban đầu nhóm này không GitHub gì cả, nói chuyện thì gặp mặt nhau mà nói
-- Tiếp theo, chúng tôi chỉ có một quy tắc: Không để điện >= 50V đi qua cơ thể là được (đùa thôi)
+- Tiếp theo, chúng tôi chỉ có một quy tắc: Không để điện $\geq$ 50V đi qua cơ thể là được (đùa thôi)
 - Còn nữa, tuốt dây á? tuốt bằng MIỆNG, nhưng vì dịch Nipah lan ra nên chúng tôi đang làm quy luật phòng LAB đàng hoàng.
 
 ## Chúng tôi làm gì?
