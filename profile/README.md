@@ -13,7 +13,7 @@
 ---
 ## Chúng tôi là ai?
 Hỏi câu này tức là bạn không thuộc nhóm này rồi, bạn có thể thoát khỏi trang này. <br>
-Nói đùa, chứ đây là nhóm STEM bởi học sinh, khá là du kích <br?
+Nói đùa, chứ đây là nhóm STEM bởi học sinh, khá là du kích <br>
 Tại sao gọi là du kích? Vì:
 - Trước hết, ban đầu nhóm này không GitHub gì cả, nói chuyện thì gặp mặt nhau mà nói
 - Tiếp theo, chúng tôi chỉ có một quy tắc: Không để điện >= 50V đi qua cơ thể là được (đùa thôi)
