@@ -25,3 +25,5 @@ Chúng tôi làm dự án STEM cho vui. <br>
 - esp32-transmitter
 
 Ngoài ra, còn có một số repo khá vui như là "lab-KHTN"
+## Tất cả các repo của chúng tôi:
+- Tất cả ở đây: [repo]("https://github.com/orgs/STEM-du-kich/repositories")
