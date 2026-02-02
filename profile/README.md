@@ -26,4 +26,4 @@ Chúng tôi làm dự án STEM cho vui. <br>
 
 Ngoài ra, còn có một số repo khá vui như là "lab-KHTN"
 ## Tất cả các repo của chúng tôi:
-- [Tất cả ở đây]("https://github.com/orgs/STEM-du-kich/repositories")
+- Vào link này để xem: https://github.com/orgs/STEM-du-kich/repositories
